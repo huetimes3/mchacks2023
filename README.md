@@ -1,2 +1,2 @@
 # mchacks2023
-Project for McHacks 10!
+Javascript files for our project submission to mchacks2023
